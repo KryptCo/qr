@@ -12,7 +12,7 @@ import (
 	"image"
 	"image/color"
 
-	"bitbucket.com/kryptco/qr/coding"
+	"bitbucket.org/kryptco/qr/coding"
 )
 
 // A Level denotes a QR error correction level.
