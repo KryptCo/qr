@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"bitbucket.org/kryptco/gf256"
+	"github.com/kryptco/gf256"
 )
 
 // Field is the field for QR error correction.
